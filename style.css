@@ -1,0 +1,27 @@
+
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: #fff;
+}
+main{
+    background-color:rgb(173, 123, 123) ;
+    margin: 15rem;
+    height: 200px;
+    width: 500px;
+    justify-content: center;
+    text-align: center;
+    color: black;
+    border-radius: 50% solid red;
+
+}
+.firstvalue,.secondvalue{
+    text-align: center;
+    justify-content: center;
+    background-color: green;
+
+}
+button{
+    background: red;
+    text-align: center;
+}
